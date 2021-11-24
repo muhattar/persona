@@ -2,3 +2,5 @@ Resolusi muh_attar
 - belajar GIS ArcGIS
 - belajar Data Science Python
 - belajar programming Python
+- membuat web project personal
+- git hub master
