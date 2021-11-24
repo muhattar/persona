@@ -3,4 +3,4 @@ Resolusi muh_attar
 - belajar Data Science Python
 - belajar programming Python
 - membuat web project personal
-- git hub master
+- Certified Data Scientist Python
